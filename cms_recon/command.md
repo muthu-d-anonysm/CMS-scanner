@@ -1,1 +1,1 @@
-./cmsscanner -i sub1.txt -group fastrun -concurrency 10 -scan-concurrency 10 -v
+./cmsscanner -i sub1.txt -group targetname -concurrency 10 -scan-concurrency 10 -v
