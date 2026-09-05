@@ -465,7 +465,7 @@ See [`LICENSE`](LICENSE) for the full license text.
 
 ## 👤 Author
 
-**[Your Name]**
+**Muthu D**
 
 Security Researcher / Offensive Security
 
